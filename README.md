@@ -1,5 +1,5 @@
 # TwitchSendMessage
-Send singular messages from a Bot account to chat 
+Send singular messages to chat 
 
 ---
 # Explanation
